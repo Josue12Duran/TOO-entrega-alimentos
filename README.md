@@ -13,4 +13,4 @@ Instalación rápida:
 
 Notas:
 - Autenticación: se añadió login/logout y control básico por roles (admin, supervisor).
-- Si deseas crear un usuario administrador de prueba, existe el script `tools/create_admin.php` en el proyecto.
+- Si deseas crear un usuario administrador de prueba o el primer usuario, existe el link `http://localhost/TOO-entrega-alimentos/tools/create_admin.php` en el proyecto.
