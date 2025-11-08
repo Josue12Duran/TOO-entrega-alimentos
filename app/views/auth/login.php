@@ -18,7 +18,7 @@
             <input id="usuario" name="usuario" class="form-control" required>
           </div>
           <div class="mb-3">
-            <label for="password" class="form-label">Password</label>
+            <label for="password" class="form-label">Contraseña</label>
             <input id="password" name="password" type="password" class="form-control" required>
           </div>
           <div class="d-flex justify-content-center">
