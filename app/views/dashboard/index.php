@@ -12,8 +12,8 @@
     <div class="col-12 col-md-6 col-lg-4 mb-3">
       <a class="card h-100 text-decoration-none text-dark" href="index.php?controller=tipos&action=index">
         <div class="card-body">
-          <h5 class="card-title">Tipos de Alimento</h5>
-          <p class="card-text">Gestiona los tipos de alimento.</p>
+          <h5 class="card-title">Alimentos</h5>
+          <p class="card-text">Gestiona los alimentos.</p>
         </div>
       </a>
     </div>

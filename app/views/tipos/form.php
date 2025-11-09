@@ -1,7 +1,7 @@
 <?php
 $isEdit = !empty($tipo);
 ?>
-<h2><?= $isEdit ? 'Editar Tipo' : 'Nuevo Tipo' ?></h2>
+<h2><?= $isEdit ? 'Editar Alimento' : 'Nuevo Alimento' ?></h2>
 
 <form method="post" action="index.php?controller=tipos&action=<?= $action ?>">
     <?php if($isEdit): ?>

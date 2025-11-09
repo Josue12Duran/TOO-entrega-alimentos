@@ -1,6 +1,6 @@
 <div class="d-flex justify-content-between align-items-center mb-3">
-    <h2>Tipos de Alimento</h2>
-    <a class="btn btn-primary" href="index.php?controller=tipos&action=create">Nuevo Tipo</a>
+    <h2>Alimentos</h2>
+    <a class="btn btn-primary" href="index.php?controller=tipos&action=create">Nuevo Alimento</a>
 </div>
 
 <div class="table-responsive">

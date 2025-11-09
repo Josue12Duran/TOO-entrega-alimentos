@@ -29,7 +29,7 @@
   $role = $_SESSION['user']['rol'] ?? null;
   // Tipos: admin, supervisor
         if ($role === 'admin'): ?>
-          <li class="nav-item"><a class="nav-link" href="index.php?controller=tipos&action=index">Tipos de Alimento</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.php?controller=tipos&action=index">Alimentos</a></li>
         <?php endif; ?>
         <?php if ($role === 'admin'): ?>
           <li class="nav-item"><a class="nav-link" href="index.php?controller=centros&action=index">Centros</a></li>
