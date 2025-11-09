@@ -120,6 +120,10 @@ INSERT INTO mnt_entregas (id_centro, id_alimento, id_responsable, fecha_entrega,
 (4, 4, 1, '2025-09-05', 120, 'Ok'),
 (1, 3, 3, '2025-09-20', 50, 'Entrega adicional');
 
+-- DATOS: Usuarios
+INSERT INTO mnt_usuarios (id, usuario, password, nombre_completo, rol) VALUES 
+(1, 'admin', '$2y$10$3yRWW6IuHr0YvvnpdjuLxeBeLXpJTB0T6ZMs4nKgJfjO25eCYs7OO', 'Administrador', 'admin');
+
 -- =============================================
 -- VISTAS
 -- =============================================
